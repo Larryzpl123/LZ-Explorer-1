@@ -1,2 +1,2 @@
-# LZ-Explorer-1
+# LZ-Explorer-1-Helicopter
 First Drone Project
